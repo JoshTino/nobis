@@ -176,7 +176,7 @@ export default function NobisLandingPage() {
               >
                 {/*<img src="https://via.placeholder.com/80" className="rounded-full mx-auto mb-4" />*/}
                 <p className="font-nunito text-gray-600 italic">“{testimonial.comment}”</p>
-                <h4 className="font-nunito mt-4 font-semibold">{testimonial.name}</h4>
+                <h4 className="font-nunito mt-4 font-semibold">- {testimonial.name} -</h4>
               </motion.div>
             ))}
           </div>
