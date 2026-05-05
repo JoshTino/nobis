@@ -94,7 +94,7 @@ export default function NobisLandingPage() {
             <h1 className="font-nunito text-4xl md:text-5xl font-bold mb-4">Clear Vision Starts Here</h1>
             <p className="font-nunito text-lg text-gray-600 mb-6">Trusted eye care services in Jalingo. Book your consultation today.</p>
             <div className="flex gap-4 flex-wrap">
-              <a href="https://wa.me/0000" className="font-nunito font-semibold bg-blue-600 text-white px-6 py-3 rounded-xl shadow">Book Appointment</a>
+              <a href="https://wa.me/08142384956" className="font-nunito font-semibold bg-blue-600 text-white px-6 py-3 rounded-xl shadow">Book Appointment</a>
               <a href="tel:08160727080" className="font-nunito border border-blue-600 text-blue-600 px-6 py-3 rounded-xl">Call Now</a>
             </div>
           </motion.div>
@@ -208,7 +208,7 @@ export default function NobisLandingPage() {
       <section className="py-16 bg-blue-600 text-white text-center">
         <motion.div variants={fadeUp} initial="hidden" whileInView="show">
           <h2 className="font-nunito text-2xl px-2 font-bold mb-6">Book Your Eye Check Today</h2>
-          <a href="https://wa.me/0000" className="font-nunito bg-white text-blue-600 px-6 py-3 rounded-xl font-semibold">Book Appointment</a>
+          <a href="https://wa.me/08142384956" className="font-nunito bg-white text-blue-600 px-6 py-3 rounded-xl font-semibold">Book Appointment</a>
         </motion.div>
       </section>
 
