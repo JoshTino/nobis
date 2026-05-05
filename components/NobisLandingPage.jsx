@@ -46,11 +46,11 @@ export default function NobisLandingPage() {
     },
     {
       "name": "Esther Magaji",
-      "comment": "Great service and professional care. Highly recommend!"
+      "comment": "Best eye exam experience I've had. The facility is clean and modern, and the optometrist was incredibly detailed."
     },
     {
       "name": "Usman Aminu",
-      "comment": "Great service and professional care. Highly recommend!"
+      "comment": "Amazing service and a great selection of frames. I'm so happy with my new glasses!"
     }
   ];
 
