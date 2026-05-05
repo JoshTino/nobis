@@ -207,7 +207,7 @@ export default function NobisLandingPage() {
       {/* CTA */}
       <section className="py-16 bg-blue-600 text-white text-center">
         <motion.div variants={fadeUp} initial="hidden" whileInView="show">
-          <h2 className="font-nunito text-3xl font-bold mb-4">Book Your Eye Check Today</h2>
+          <h2 className="font-nunito text-2xl px-2 font-bold mb-4">Book Your Eye Check Today</h2>
           <a href="https://wa.me/0000" className="font-nunito bg-white text-blue-600 px-6 py-3 rounded-xl font-semibold">Book Appointment</a>
         </motion.div>
       </section>
