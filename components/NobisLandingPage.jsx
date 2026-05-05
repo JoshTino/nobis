@@ -60,7 +60,7 @@ export default function NobisLandingPage() {
       {/* NAVBAR */}
       <nav className="fixed w-full bg-white shadow z-50">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <img src="/images/logo.png" className="h-15" />
+          <img src="/images/logo.png" className="h-13" />
 
           <div className="hidden md:flex gap-6 items-center">
             <a className="font-nunito" href="#services">Services</a>
